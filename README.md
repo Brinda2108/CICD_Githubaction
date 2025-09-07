@@ -1,2 +1,2 @@
-# CICD_Githubaction
-CI CD Pipeline with Github actions
+# CICD_GitHubaction
+CI CD Pipeline with GitHub actions
